@@ -1,5 +1,8 @@
 # Kindle-KDP-useful-links-for-independent-publishing-resources
 
+# Bookshelf
+https://kdp.amazon.com/en_US/bookshelf
+
 #  Previewing and Publishing Your Kindle Create Book 
 https://kdp.amazon.com/en_US/help/topic/GRVZMSZ2THRTR5V9#preview_in_kc
 # Uploading Your File on KDP
