@@ -1,5 +1,5 @@
 # Kindle-KDP-useful-links-for-independent-publishing-resources
-
+# https://kdp.amazon.com/en_US/help/topic/G200645680
 # Bookshelf
 https://kdp.amazon.com/en_US/bookshelf
 # Publish Process https://kdp.amazon.com/en_US/title-setup/kindle/new/details?ref_=kdp_BS_D_cr_ti
@@ -42,3 +42,7 @@ https://kdp.amazon.com/en_US/help/topic/G200735480
 ![](https://m.media-amazon.com/images/G/01/kindle-publication/KDP-Images/paperback_decision_tree._CB1559090177_.PNG)
 
 
+# Proof Copies
+https://kdp.amazon.com/en_US/help/topic/G202131440
+# Upload and Preview Book Content
+https://kdp.amazon.com/en_US/help/topic/G200641240
