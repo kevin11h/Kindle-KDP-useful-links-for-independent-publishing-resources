@@ -31,3 +31,5 @@ https://kdp.amazon.com/en_US/help/topic/G200735480
 
 
 ![](https://m.media-amazon.com/images/G/01/kindle-publication/KDP-Images/paperback_decision_tree._CB1559090177_.PNG)
+
+
