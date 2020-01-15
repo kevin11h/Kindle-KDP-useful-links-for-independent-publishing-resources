@@ -2,6 +2,7 @@
 
 # Bookshelf
 https://kdp.amazon.com/en_US/bookshelf
+# Publish Process https://kdp.amazon.com/en_US/title-setup/kindle/new/details?ref_=kdp_BS_D_cr_ti
 
 #  Previewing and Publishing Your Kindle Create Book 
 https://kdp.amazon.com/en_US/help/topic/GRVZMSZ2THRTR5V9#preview_in_kc
