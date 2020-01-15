@@ -1,5 +1,10 @@
 # Kindle-KDP-useful-links-for-independent-publishing-resources
 
+#  Previewing and Publishing Your Kindle Create Book 
+https://kdp.amazon.com/en_US/help/topic/GRVZMSZ2THRTR5V9#preview_in_kc
+# Uploading Your File on KDP
+https://kdp.amazon.com/en_US/help/topic/GRVZMSZ2THRTR5V9#upload
+
 # Supported eBook Formats
 https://kdp.amazon.com/en_US/help/topic/G200634390
 
